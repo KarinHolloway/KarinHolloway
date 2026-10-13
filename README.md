@@ -9,7 +9,7 @@
 
 ## ${\textsf{\color{#dd7f28}Please sign my ata and strawpage before reading my read.me!!}}$
 
-[PUMPKINBOOKS](https://gourdyhollowaypumpkin.atabook.org/) [PUMPKINBOOKS.PAGE](https://pumpkinbooks.straw.page)
+[PUMPKINBOOKS](https://gourdyhollowaypumpkin.atabook.org/) [PUMPKINBOOKS.PAGE](https://pumpkinbookspage.straw.page)
 
 ## ${\textsf{\color{#dd7f28}About Me:}}$
 
