@@ -79,6 +79,8 @@ ${\textsf{\color{#dd7f28}I may be weird that I like to tickle my friend's toes (
 <br>[Gordon](https://github.com/gordonthebigengine)
 <br>[1x1x1x1](https://github.com/Cuddling-Encouraged-heavily-Dnc)
 <br>[Sproutagent](https://github.com/Sproutkin) 
+<br>[Dante](https://github.com/surrendered-witnessing)
+<br>[Timmy](https://github.com/TIMMYMcnaughtonAYY)
   </details>
 </th></table>
 
