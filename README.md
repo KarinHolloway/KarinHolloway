@@ -38,6 +38,8 @@ ${\textsf{\color{#dd7f28}I really like to bite my friends.}}$
 
 ${\textsf{\color{#dd7f28}I may be weird that I like to tickle my friend's toes (not on IRL).}}$
 
+${\textsf{\color{#dd7f28}I really like to annoy my friends, but it makes you a bit uncomfortable. Just tell me. I don't mind.}}$
+
 <img width="400" height="37" alt="tumblr_c842e2aac64425efce0cf9365204bb28_aba4bcd1_400" src="https://github.com/user-attachments/assets/ab4c2eba-1674-430e-867b-2921e6b9eb76" />
 <img width="400" height="37" alt="tumblr_c842e2aac64425efce0cf9365204bb28_aba4bcd1_400" src="https://github.com/user-attachments/assets/3c0578a9-d1cd-423d-bbe6-117489b70b60" />
 
