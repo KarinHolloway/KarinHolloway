@@ -53,7 +53,8 @@ ${\textsf{\color{#dd7f28}I may be weird that I like to tickle my friend's toes (
   <br>$\text{\small\it\color{#dd7f28}{Taking Inspo without my permission.}}$
  <br>$\text{\small\it\color{#dd7f28}{Please do not ship me and toodles that we are both kids, but I am very uncomfortable with it.}}$
   <br>$\text{\small\it\color{#dd7f28}{If you interact with me without reading my bio that has DNI... I'll hide you freely. I don't like interacting with gourdy tutorial skins.}}$ $\text{\small\it\color{#dd7f28}{(It's okay if you want to interact with me.)}}$
-   <br>$\text{\small\it\color{#dd7f28}{ interacting with gourdy tutorial skins.}}$ $\text{\small\it\color{#dd7f28}{I feel very uncomfortable seeing maid skins, whether they are original characters like OC and COS.}}$
+   <br>$\text{\small\it\color{#dd7f28}{interacting with gourdy tutorial skins.}}$ $\text{\small\it\color{#dd7f28}{I feel very uncomfortable seeing maid skins, whether they are original characters like OC and COS.}}$
+  <br>$\text{\small\it\color{#dd7f28}{ If you dare to hide or block my friends, I'm going to hide and block you first.}}$
   </details>
 </th></table>
 
