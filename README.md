@@ -45,7 +45,7 @@ ${\textsf{\color{#dd7f28}I may be weird that I like to tickle my friend's toes (
 
 
 <table align="right"><th>
-<details><summary> <br>$\text{\small\it\color{#dd7f28}My DNI List.}$</summary>
+<details><summary> <br>$\text{\small\it\color{#18eeea}My DNI List.}$</summary>
   <br>$\text{\small\it\color{#dd7f28}{Proshippers/Proships, Darkshippers/Darkships, and Kidshippers/Kidships ARE OFFICIALLY AVOIDED OR FULLY BLOCKED.}}$
   <br>$\text{\small\it\color{#dd7f28}{I block freely if you dare to boop me.}}$
   <br>$\text{\small\it\color{#dd7f28}{Gourdy Hatters.}}$
@@ -63,7 +63,7 @@ ${\textsf{\color{#dd7f28}I may be weird that I like to tickle my friend's toes (
 
 
 <table align="left"><th>
-<details><summary> <br>$\text{\small\it\color{#dd7f28}Moots/Friends}$</summary>  
+<details><summary> <br>$\text{\small\it\color{#eeda18}Moots/Friends}$</summary>  
   
 <br>[Meii](https://github.com/Ryxii0) 
 <br>[Dinky-kun](https://github.com/priijan)
