@@ -48,7 +48,7 @@ ${\textsf{\color{#dd7f28}I really like to annoy my friends, but it makes you a b
 
 <table align="right"><th>
 <details><summary> <br>$\text{\small\it\color{#18eeea}My DNI List.}$</summary>
-  <br>$\text{\small\it\color{#dd7f28}{Proshippers/Proships, Darkshippers/Darkships, and Kidshippers/Kidships ARE OFFICIALLY AVOIDED OR FULLY BLOCKED.}}$
+  <br>$\text{\small\it\color{#dd7f28}{Proshippers/Proships, Darkshippers/Darkships, Kidshippers/Kidships, and Yumeshippers/Yumeships ARE OFFICIALLY AVOIDED OR FULLY BLOCKED.}}$
   <br>$\text{\small\it\color{#dd7f28}{I block freely if you dare to boop me.}}$
   <br>$\text{\small\it\color{#dd7f28}{Gourdy Hatters.}}$
   <br>$\text{\small\it\color{#dd7f28}{Copying my skin.}}$
