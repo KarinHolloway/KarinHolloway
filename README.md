@@ -83,6 +83,8 @@ ${\textsf{\color{#dd7f28}I really like to annoy my friends, but it makes you a b
 <br>[Sproutagent](https://github.com/Sproutkin) 
 <br>[Dante](https://github.com/surrendered-witnessing)
 <br>[Timmy](https://github.com/TIMMYMcnaughtonAYY)
+<br>[merisz](https://github.com/seedlyboy)
+<br>[Vynical](https://github.com/pebbledays)
   </details>
 </th></table>
 
