@@ -87,6 +87,7 @@ ${\textsf{\color{#dd7f28}Above 18+, you can only interact with me! Under 18+ who
 <br>[Timmy](https://github.com/TIMMYMcnaughtonAYY)
 <br>[merisz](https://github.com/seedlyboy)
 <br>[Vynical](https://github.com/pebbledays)
+<br>[Harvey](https://github.com/DandicusDanciferDW)
   </details>
 </th></table>
 
