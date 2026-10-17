@@ -50,15 +50,15 @@ ${\textsf{\color{#eeda18}Above 18+, you can only interact with me! Under 18+ who
 
 <table align="right"><th>
 <details><summary> <br>$\text{\small\it\color{#18eeea}My DNI List.}$</summary>
-  <br>$\text{\small\it\color{#dd7f28}{Proshippers/Proships, Darkshippers/Darkships, Kidshippers/Kidships, and Yumeshippers/Yumeships ARE OFFICIALLY AVOIDED OR FULLY BLOCKED.}}$
+  <br>$\text{\small\it\color{#eeda18}{Proshippers/Proships, Darkshippers/Darkships, Kidshippers/Kidships, and Yumeshippers/Yumeships ARE OFFICIALLY AVOIDED OR FULLY BLOCKED.}}$
   <br>$\text{\small\it\color{#dd7f28}{I block freely if you dare to boop me.}}$
-  <br>$\text{\small\it\color{#dd7f28}{Gourdy Hatters.}}$
-  <br>$\text{\small\it\color{#dd7f28}{Copying my skin.}}$
+  <br>$\text{\small\it\color{#18eeea}{Gourdy Hatters.}}$
+  <br>$\text{\small\it\color{#eeda18}{Copying my skin.}}$
   <br>$\text{\small\it\color{#dd7f28}{Taking Inspo without my permission.}}$
- <br>$\text{\small\it\color{#dd7f28}{Please do not ship me and toodles that we are both kids, but I am very uncomfortable with it.}}$
-  <br>$\text{\small\it\color{#dd7f28}{If you interact with me without reading my bio that has DNI... I'll hide you freely. I don't like interacting with gourdy tutorial skins.}}$ $\text{\small\it\color{#dd7f28}{(It's okay if you want to interact with me.)}}$
-   <br>$\text{\small\it\color{#dd7f28}{interacting with gourdy tutorial skins.}}$ $\text{\small\it\color{#dd7f28}{I feel very uncomfortable seeing maid skins, whether they are original characters like OC and COS.}}$
-  <br>$\text{\small\it\color{#dd7f28}{ If you dare to hide or block my friends, I'm going to hide and block you first.}}$
+ <br>$\text{\small\it\color{#eeda18}{Please do not ship me and toodles that we are both kids, but I am very uncomfortable with it.}}$
+  <br>$\text{\small\it\color{#18eeea}{If you interact with me without reading my bio that has DNI... I'll hide you freely. I don't like interacting with gourdy tutorial skins.}}$ $\text{\small\it\color{#dd7f28}{(It's okay if you want to interact with me.)}}$
+   <br>$\text{\small\it\color{#18eeea}{interacting with gourdy tutorial skins.}}$ $\text{\small\it\color{#dd7f28}{I feel very uncomfortable seeing maid skins, whether they are original characters like OC and COS.}}$
+  <br>$\text{\small\it\color{#eeda18}{ If you dare to hide or block my friends, I'm going to hide and block you first.}}$
   </details>
 </th></table>
 
