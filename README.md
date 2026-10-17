@@ -77,7 +77,6 @@ ${\textsf{\color{#eeda18}Above 18+, you can only interact with me! Under 18+ who
 <br>[Roxy/Lotus](https://github.com/DearestRoxy)
 <br>[Kei](https://github.com/Gacha-cutie)
 <br>[Echo](https://github.com/RazzletotheDazzle)
-<br>[Astro](https://github.com/sp4ceb3rry)
 <br>[Mabel](https://github.com/madelinedovetergent)
 <br>[Andre](https://github.com/a1p1yuri)
 <br>[Gordon](https://github.com/gordonthebigengine)
