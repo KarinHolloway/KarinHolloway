@@ -20,15 +20,15 @@
 
 ${\textsf{\color{#dd7f28}Hello! I'm Karin! And welcome to my Read.me!!}}$
 
-${\textsf{\color{#dd7f28}I like to draw, read online comics, play games, listen to music, etc., and more!}}$
+${\textsf{\color{#18eeea}I like to draw, read online comics, play games, listen to music, etc., and more!}}$
 
-${\textsf{\color{#dd7f28}Don't be too shy to cuddle, pile, hug, and snuggle with me!}}$
+${\textsf{\color{#eeda18}Don't be too shy to cuddle, pile, hug, and snuggle with me!}}$
 
 ${\textsf{\color{#dd7f28}Please don't boop me whenever I'm afk, drawing, doing homework, watching, eating, sleeping, etc., and more…}}$
 
-${\textsf{\color{#dd7f28}Whispering to me is free, but if spam whispers... I will block you and hide you FULLY.}}$
+${\textsf{\color{#eeda18}Whispering to me is free, but if spam whispers... I will block you and hide you FULLY.}}$
 
-${\textsf{\color{#dd7f28}I want more supportive and kind friends, so… bmf!}}$
+${\textsf{\color{#18eeea}I want more supportive and kind friends, so… bmf!}}$
 
 ${\textsf{\color{#dd7f28}I allow my friends and close friends to boop me whenever they want, except for strangers.}}$ 
 
